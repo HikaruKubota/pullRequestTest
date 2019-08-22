@@ -2,3 +2,9 @@ memo
 こんにちは
 
 紐づけを行う。
+
+
+
+Github practice mode
+
+Hello World! Hallo Welt! Salut Monde!
