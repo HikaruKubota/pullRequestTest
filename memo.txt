@@ -6,3 +6,5 @@ memo
 
 
 Github practice mode
+
+Hello World! Hallo Welt! Salut Monde!
